@@ -1,7 +1,9 @@
 {
   "name": "socket-chat-example",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "description": "A socket.io chat client",
+  "main": "index.js",
+  "author": "Nathan Ridgeway"
   "dependencies": {
     "express": "^4.10.2"
   }
