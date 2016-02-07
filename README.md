@@ -1,3 +1,3 @@
 # NodeChatroom
 
-A chatroom using node.js and socket.io
+A chatroom using node.js and socket.io.
